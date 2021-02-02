@@ -2,7 +2,7 @@
 
 OWD.LI is a lightweight ink shortener service for [One Word Domains](https://www.oneword.domains), built in Flask and hosted on Vercel.
 
-[](https://www.oneword.domains/static/assets/thumbnail.png)
+![One Word Domains](https://www.oneword.domains/static/assets/thumbnail.png)
 
 Shoutout to [An](https://github.com/anthemaker) for such a cool domain suggestion!
 
